@@ -88,7 +88,7 @@ EXPORT_OUTPUT_DIR=./data/export
 ## Directory Structure
 
 ~~~bash
-reporting-collection-system/
+reporting-system/
 ├── docs/                    # Documentation files
 │   ├── architecture.md
 │   └── user_guide.md
@@ -149,7 +149,7 @@ Export required datasets for Power BI:
 python src/export/data_exporter.py --all
 
 # Export specific report for date range
-python src/export/data_exporter.py --report monthly_summary --start-date 2023-01-01 --end-date 2023-12-31
+python src/export/data_exporter.py --report monthly_summary --start-date 2025-01-01 --end-date 2025-09-30
 ~~~
 
 **4. Power BI Dashboard Creation**
