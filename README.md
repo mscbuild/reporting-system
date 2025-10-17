@@ -6,12 +6,15 @@ This system provides an end-to-end solution for collecting, processing, storing,
 
 **System Architecture**
 
+~~~bash
+
 ┌─────────────────┐    ┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │                 │    │                 │    │                  │    │                 │    │                 │
 │  Excel Forms    ├───►│  Python Data    ├───►│  PostgreSQL      ├───►│  Python Export  ├───►│  Power BI       │
 │  (Data Input)   │    │  Processing     │    │  Database        │    │  Scripts        │    │  Dashboards     │
 │                 │    │  Scripts        │    │  (Storage)       │    │                 │    │                 │
 └─────────────────┘    └─────────────────┘    └──────────────────┘    └─────────────────┘    └─────────────────┘
+~~~
 
 **Technologies Used**
 
