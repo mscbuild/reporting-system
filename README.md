@@ -1,5 +1,8 @@
 ## 📊 Reporting Collection & Analysis System
 
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/0ee3e76e-91b0-472b-939d-d2bfc2a16b30" />
+
+
 **Project Overview**
 
 This system provides an end-to-end solution for collecting, processing, storing, and visualizing reporting data. The workflow begins with data collection via Excel forms, processes the data using Python scripts, stores it in a PostgreSQL database, exports required datasets, and finally creates interactive dashboards using Power BI.
