@@ -212,8 +212,10 @@ For production deployment:
 
 5.Create a Pull Request
 
-##License
+## License
 
 This project is licensed under the MIT License  
 
-**Note:** Remember to update the .env.example file with your actual configuration and never commit sensitive information to version control.
+**Note:** 
+
+Remember to update the .env.example file with your actual configuration and never commit sensitive information to version control.
