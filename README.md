@@ -228,4 +228,4 @@ This project is licensed under the MIT License
 
 > [!NOTE]   
 
->Remember to update the `.env.example` file with your actual configuration and never commit sensitive information to version control.
+> Remember to update the `.env.example` file with your actual configuration and never commit sensitive information to version control.
