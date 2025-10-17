@@ -36,7 +36,7 @@ This system provides an end-to-end solution for collecting, processing, storing,
 
   # Environment Setup
 
-  **1.Clone the repository:**
+**1.Clone the repository:**
 
 ~~~bash
 git clone https://github.com/mscbuild/reporting-system.git
