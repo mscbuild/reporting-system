@@ -38,7 +38,7 @@ This system provides an end-to-end solution for collecting, processing, storing,
 
   **1.Clone the repository:**
 
-  ~~~bash
+~~~bash
 git clone https://github.com/mscbuild/reporting-system.git
 cd reporting-collection-system
 ~~~
