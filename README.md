@@ -1,6 +1,14 @@
 ## 📊 Reporting Collection & Analysis System
 
-<img center width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/0ee3e76e-91b0-472b-939d-d2bfc2a16b30" />
+<style>
+img {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+</style>
+
+<img  width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/0ee3e76e-91b0-472b-939d-d2bfc2a16b30" />
 
 
 **Project Overview**
