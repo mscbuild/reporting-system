@@ -177,11 +177,17 @@ python src/export/data_exporter.py --report monthly_summary --start-date 2023-01
 ## Power BI Integration
 
 **1.Data Refresh:** Configure Power BI to automatically refresh from the export directory
+
 **2.Parameters:** Create date parameters for dynamic period selection
+
 **3.Measures:** Implement DAX measures for KPIs and calculations
+
 **4.Visualizations:**
+
 - Time series charts for trend analysis
+ 
 - Bar charts for departmental comparisons
+ 
 - Tables for detailed data review
 
 ## Testing
