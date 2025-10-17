@@ -1,0 +1,14 @@
+CREATE TABLE reports (
+    id SERIAL PRIMARY KEY,
+    report_date DATE NOT NULL,
+    department VARCHAR(100) NOT NULL,
+    category VARCHAR(50) NOT NULL,
+    metric_name VARCHAR(100) NOT NULL,
+    metric_value DECIMAL(10,2) NOT NULL,
+    notes TEXT,
+    source_file VARCHAR(255),
+    processed_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE INDEX idx_reports_date ON reports(report_date);
+CREATE INDEX idx_reports_department ON reports(department);
