@@ -228,3 +228,7 @@ This project is licensed under the MIT License
 
 > [!NOTE]   
 > Remember to update the `.env.example` file with your actual configuration and never commit sensitive information to version control.
+
+<!--
+keywords: n8n workflows, n8n automation, n8n examples, n8n templates, no-code automation, telegram bot workflows, openai n8n, webhook automation, best proyect, creative repo, awesome, star repo, mscbuild, YuriDev
+-->
